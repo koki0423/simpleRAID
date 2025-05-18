@@ -1,1 +1,1 @@
-# simpleSD-RAID
+# simpleRAID
